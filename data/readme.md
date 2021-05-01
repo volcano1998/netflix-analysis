@@ -47,5 +47,9 @@ this is the data containing information of users who rated much more movies than
 
 This is the aggregated data for generating heatmap
 
+6.movie_rating.csv
+
+This is the merged dataset from rating_1.csv and movie_title.csv, used for streamlit app.
+
 
 
