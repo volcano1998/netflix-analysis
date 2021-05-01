@@ -3,13 +3,13 @@
  
  This is our big data final project!
  
- In the data folder, there are all of the data you need to reproduce our result.
+ In the **data** folder, there are all of the data you need to reproduce our result.
  
- 01-EDA contains the code of creating exploratory visualization
+ **01-EDA** contains the code of creating exploratory visualization
  
- 02-Modeling contains code for our three modeling part: (1) content based recommendation (2) user based recommendation (3) link prediction
+ **02-Modeling** contains code for our three modeling part: (1) content based recommendation (2) user based recommendation (3) link prediction
  
- 03-Application is the code of building our streamlit App
+ **03-Application** is the code of building our streamlit App
  
  
  Under each folder, there is also readme file to tell what this folder and files are about and how to run the code.
