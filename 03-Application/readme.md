@@ -4,7 +4,9 @@ For succussfully building this app, you also need to download data from  https:/
 
 To build this application on your computer, you need:
 
-1. install streamlit 
+
+
+1. you can use `conda env create -f environment.yml` to recreate the env, or install packages from `dependency` manually.
 2. download the 2 dataset into 03-Application/ , uncompress them.
 3. in your terminal, in 03-Application, run "streamlit run home.py", you will see a new brower shows up
 4. You can enjoy your journey now!

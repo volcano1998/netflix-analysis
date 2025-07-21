@@ -1,0 +1,4 @@
+- python=3.13.5=h81a7116_100_cp313
+- streamlit=1.45.1=py313hecd8cb5_1
+- pyspark==4.0.0
+java: openjdk version "17.0.16" 2025-07-15

@@ -15,8 +15,8 @@ def get_rec(input_name,df,k=10):
     return output
 def show_rec(rec_list):
     pic_dir ='actor_pic/'
-    alL_mov = os.listdir(pic_dir)
-    rec_pic = []
+    # alL_mov = os.listdir(pic_dir)
+    # rec_pic = []
 
     for i in range(len(rec_list)):
         # st.text(rec_df.columns)
@@ -30,7 +30,7 @@ def show_rec(rec_list):
                     show_num+=1
                     break
         except:
-            place_holder_path = "image_place_holder/people-icon.png"
+            place_holder_path = "image_place_holder/people-icon.jpg"
             load_image(place_holder_path,title = "Top %d"%(i+1),subheader = rec_name)
 
     return 
